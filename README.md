@@ -1,6 +1,14 @@
 ﻿# JavaScript-Project
- This two project is based upon these following tutorials
+ ###This repository consists of two small Javascript project
+ 
+      1. Realtime Clock WebPage
+      2. To Do Lists WebPage
+ 
+ ###This two project is based upon these following tutorials
       
-      https://www.youtube.com/watch?v=onbBV0uFVpo
+      1. https://www.youtube.com/watch?v=onbBV0uFVpo
+      2. https://www.youtube.com/watch?v=hKB-YGF14SY
+ 
+ ###The channel link of CodewithHarry is
       
-      https://www.youtube.com/watch?v=hKB-YGF14SY
+      1. https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww
