@@ -1,5 +1,5 @@
 # JavaScript-Project
-### This repository consists of two small Javascript project
+### This repository consists of two small Javascript projects
  
       1. Realtime Clock WebPage
       2. To Do Lists WebPage
